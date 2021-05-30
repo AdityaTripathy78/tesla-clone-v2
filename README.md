@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Demo App
+
+![image](https://user-images.githubusercontent.com/77615113/120103789-012a1d80-c16f-11eb-8437-560a8bb748d6.png)
+
+https://tesla-clone-v2.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
